@@ -60,7 +60,7 @@ As someone who is personally working toward health and weight loss goals, I want
 
 ## Contact
 
-Want to collaborate or ask questions?  
-Please find me on GitHub: Dandelion-44 
-*This project is part of my data analyst portfolio.*
+- Want to collaborate or ask questions?  
+- Please find me on GitHub: Dandelion-44 
+- *This project is part of my data analyst portfolio.*
 
