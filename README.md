@@ -5,7 +5,9 @@ I built this as part of my journey to becoming a data analyst and to support my 
 
 ---
 ## Features
--Automatically logsthe current date
+
+-Automatically logs the current date
+
 -User input for:
   - Daily weight
   - Calories eaten
@@ -16,6 +18,7 @@ I built this as part of my journey to becoming a data analyst and to support my 
 ---
 
 ## Tools Used
+
 -Python
 -Jupyter Notebook
 -'csv' module for file writing
@@ -58,6 +61,6 @@ As someone who is personally working toward health and weight loss goals, I want
 ## Contact
 
 Want to collaborate or ask questions?  
-Find me on GitHub: [Dandelion-44]  
+Please find me on GitHub: Dandelion-44 
 *This project is part of my data analyst portfolio.*
 
