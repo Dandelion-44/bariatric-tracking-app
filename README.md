@@ -19,11 +19,11 @@ I built this as part of my journey to becoming a data analyst and to support my 
 
 ## Tools Used
 
--Python
--Jupyter Notebook
--'csv' module for file writing
--'datetime' for timestamps
--`pandas` for loading data
+- Python
+- Jupyter Notebook
+- 'csv' module for file writing
+- 'datetime' for timestamps
+- `pandas` for loading data
 
 ---
 
